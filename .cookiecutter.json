@@ -1,33 +1,12 @@
 {
-    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/ae70721e-a7dc-4841-b977-13a00fabb068/template",
-    "access": "fp-mt",
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
     "artifact_id": "java-kotlin-lib-test-4h5z6",
     "component_id": "java-kotlin-lib-test-4h5z6",
     "description": "This project was created from the template-java-kotlin-library template.",
     "destination": {
         "git": {
-            "filepath": "",
-            "filepathtype": "",
-            "full_name": "fp-mt-test-org/java-kotlin-lib-test-4h5z6",
-            "git_suffix": "False",
-            "hash": "",
-            "href": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-4h5z6",
             "name": "java-kotlin-lib-test-4h5z6",
-            "organization": "fp-mt-test-org",
-            "owner": "fp-mt-test-org",
-            "pathname": "/fp-mt-test-org/java-kotlin-lib-test-4h5z6",
-            "port": null,
-            "protocol": "https",
-            "protocols": [
-                "https"
-            ],
-            "query": {},
-            "ref": "",
-            "resource": "github.com",
-            "search": "",
-            "source": "github.com",
-            "token": "",
-            "user": ""
+            "owner": "fp-mt-test-org"
         }
     },
     "java_package_name": "javakotlinlibtest4h5z6",
